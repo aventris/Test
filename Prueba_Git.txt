@@ -1,11 +1,2 @@
 Esto es un texto para poner a prueba el control de versiones
-
 Voy a poner algunas lienas extra solo para hcer distintos cambios y poder ver como est[a controlando las versiones.
-
-UwU
-
-OwO
-
-T-T
-
-
