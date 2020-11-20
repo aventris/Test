@@ -1,14 +1,11 @@
-Esto es un texto para poner a prueba git
+Esto es un texto para poner a prueba el control de versiones
 
 Voy a poner algunas lienas extra solo para hcer distintos cambios y poder ver como est[a controlando las versiones.
-Tambien voy a agregar ésta nueva línea para objervar los cambios
-
-OwO
 
 UwU
 
-TnT
+OwO
+
+T-T
 
 
-Lienea extra agregada despues de subir los dos archivos html/css
-Y una mas
