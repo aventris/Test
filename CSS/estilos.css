@@ -1,7 +1,9 @@
 body{
+	background: #1e1f24;
 	text-align: center;
 	color: #333;
 	font-family: Arial;
+	font-size: 16px;
 	margin: 0;
 	padding: 0;
 }
@@ -20,6 +22,7 @@ body{
 }
 
 #post{
+	background: white;
 	padding: 1em;
 }
 
@@ -31,6 +34,11 @@ body{
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+#cabecera #logo{
+	width: 20px;
+	vertical-align: middle;
 }
 
 #cabecera #tagline
